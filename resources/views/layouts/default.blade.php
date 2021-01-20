@@ -2,7 +2,7 @@
 
 <html>
     <head>
-        <title>Weibo APP</title>
+        <title>@yield('title', 'Laravel Weibo') - PHPLei</title>
     </head>
 
     <body>
